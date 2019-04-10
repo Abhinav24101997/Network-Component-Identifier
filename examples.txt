@@ -1,0 +1,1800 @@
+System Information - 06/30/2018 17:03:51
+
+Name                      : LAPTOP-9947AK30
+Manufacturer              : LENOVO
+Model                     : 80WK
+PartOfDomain              : False
+Domain                    : WORKGROUP
+Workgroup                 : WORKGROUP
+DNSHostName               : LAPTOP-9947AK30
+NumberOfProcessors        : 1
+NumberOfLogicalProcessors : 8
+TotalPhysicalMemory       : 17048965120
+CurrentTimeZone           : 330
+DaylightInEffect          : 
+HypervisorPresent         : False
+PrimaryOwnerName          : Windows User
+UserName                  : LAPTOP-9947AK30\Abhinav
+
+
+
+
+BIOS Information - 06/30/2018 17:03:53
+
+Name         : 4KCN28WW
+SerialNumber : PF0TM0PF
+Version      : LENOVO - 1
+BIOSVersion  : {LENOVO - 1, 4KCN28WW, INSYDE Corp. - 56341028}
+
+
+
+
+Battery Information - 06/30/2018 17:04:23
+
+PSShowComputerName          : True
+Caption                     : Internal Battery
+Description                 : Internal Battery
+InstallDate                 : 
+Name                        : L16M3P24
+Status                      : OK
+Availability                : 2
+ConfigManagerErrorCode      : 
+ConfigManagerUserConfig     : 
+CreationClassName           : Win32_Battery
+DeviceID                    :  4346SMPL16M3P24
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : 
+PowerManagementCapabilities : {1}
+PowerManagementSupported    : False
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-9947AK30
+BatteryStatus               : 2
+Chemistry                   : 2
+DesignCapacity              : 
+DesignVoltage               : 11844
+EstimatedChargeRemaining    : 53
+EstimatedRunTime            : 71582788
+ExpectedLife                : 
+FullChargeCapacity          : 
+MaxRechargeTime             : 
+SmartBatteryVersion         : 
+TimeOnBattery               : 
+TimeToFullCharge            : 
+BatteryRechargeTime         : 
+ExpectedBatteryLife         : 
+PSComputerName              : 
+CimClass                    : root/cimv2:Win32_Battery
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+
+
+
+CD-ROM Drives Information - 06/30/2018 17:04:10
+CPU Information - 06/30/2018 17:03:54
+
+DeviceID          : CPU0
+Manufacturer      : GenuineIntel
+Name              : Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Caption           : Intel64 Family 6 Model 158 Stepping 9
+L2CacheSize       : 1024
+L3CacheSize       : 6144
+LoadPercentage    : 1
+CurrentClockSpeed : 2801
+
+
+
+
+Fans Information - 06/30/2018 17:04:18
+
+Name          : Cooling Device
+Caption       : Cooling Device
+Description   : Cooling Device
+InstallDate   : 
+ActiveCooling : True
+DesiredSpeed  : 
+VariableSpeed : 
+
+
+
+
+GPU Information - 06/30/2018 17:03:59
+
+DeviceID                    : VideoController1
+Name                        : Intel(R) HD Graphics 630
+VideoProcessor              : Intel(R) HD Graphics Family
+AdapterDACType              : Internal
+AdapterRAM                  : 1073741824
+DriverDate                  : 17-10-2017 5.30.00 AM
+DriverVersion               : 22.20.16.4836
+VideoModeDescription        : 1920 x 1080 x 4294967296 colors
+CurrentBitsPerPixel         : 32
+CurrentHorizontalResolution : 1920
+CurrentVerticalResolution   : 1080
+CurrentNumberOfColors       : 4294967296
+CurrentRefreshRate          : 60
+MaxRefreshRate              : 60
+MinRefreshRate              : 60
+Status                      : OK
+
+DeviceID                    : VideoController2
+Name                        : NVIDIA GeForce GTX 1050 Ti
+VideoProcessor              : GeForce GTX 1050 Ti
+AdapterDACType              : Integrated RAMDAC
+AdapterRAM                  : 4293918720
+DriverDate                  : 22-05-2018 5.30.00 AM
+DriverVersion               : 24.21.13.9793
+VideoModeDescription        : 
+CurrentBitsPerPixel         : 
+CurrentHorizontalResolution : 
+CurrentVerticalResolution   : 
+CurrentNumberOfColors       : 
+CurrentRefreshRate          : 
+MaxRefreshRate              : 
+MinRefreshRate              : 
+Status                      : OK
+
+
+
+
+Keyboard Information - 06/30/2018 17:04:08
+
+Description          : Standard PS/2 Keyboard
+Caption              : Enhanced (101- or 102-key)
+NumberOfFunctionKeys : 12
+
+
+
+
+Logical Drives Information - 06/30/2018 17:03:58
+
+DeviceID           : C:
+Description        : Local Fixed Disk
+VolumeName         : Windows
+ProviderName       : 
+Size               : 126696288256
+FreeSpace          : 36619722752
+VolumeSerialNumber : EE730C71
+FileSystem         : NTFS
+Compressed         : False
+
+DeviceID           : D:
+Description        : Local Fixed Disk
+VolumeName         : LENOVO
+ProviderName       : 
+Size               : 1000068870144
+FreeSpace          : 468444135424
+VolumeSerialNumber : EEBA3FEC
+FileSystem         : NTFS
+Compressed         : False
+
+DeviceID           : E:
+Description        : CD-ROM Disc
+VolumeName         : 
+ProviderName       : 
+Size               : 
+FreeSpace          : 
+VolumeSerialNumber : 
+FileSystem         : 
+Compressed         : 
+
+
+
+
+MotherBoard Information - 06/30/2018 17:03:56
+
+Manufacturer : LENOVO
+Model        : 
+Version      : SDK0J40688 WIN
+
+
+
+
+Monitors Information - 06/30/2018 17:04:05
+
+DeviceID              : DesktopMonitor1
+Name                  : Generic PnP Monitor
+MonitorManufacturer   : (Standard monitor types)
+MonitorType           : Generic PnP Monitor
+PixelsPerXLogicalInch : 120
+ScreenHeight          : 
+ScreenWidth           : 
+Status                : OK
+
+DeviceID              : DesktopMonitor2
+Name                  : Default Monitor
+MonitorManufacturer   : 
+MonitorType           : Default Monitor
+PixelsPerXLogicalInch : 120
+ScreenHeight          : 
+ScreenWidth           : 
+Status                : OK
+
+
+
+
+Pointing Device Information - 06/30/2018 17:04:09
+
+Description  : ELAN pointing device
+Name         : ELAN pointing device
+HardwareType : ELAN pointing device
+Manufacturer : ELAN
+
+Description  : HID-compliant mouse
+Name         : HID-compliant mouse
+HardwareType : HID-compliant mouse
+Manufacturer : Microsoft
+
+
+
+
+Network Devices Information - 06/30/2018 17:04:00
+
+DeviceID        : 0
+Name            : Microsoft Kernel Debug Network Adapter
+Manufacturer    : Microsoft
+ProductName     : Microsoft Kernel Debug Network Adapter
+ServiceName     : kdnic
+MACAddress      : 
+AdapterType     : 
+NetConnectionID : 
+NetEnabled      : 
+Speed           : 
+PhysicalAdapter : False
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 1
+Name            : TAP-Windows Adapter V9
+Manufacturer    : TAP-Windows Provider V9
+ProductName     : TAP-Windows Adapter V9
+ServiceName     : tap0901
+MACAddress      : 00:FF:7A:76:BA:B4
+AdapterType     : Ethernet 802.3
+NetConnectionID : Ethernet 2
+NetEnabled      : False
+Speed           : 100000000
+PhysicalAdapter : True
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 2
+Name            : Qualcomm Atheros QCA61x4A Wireless Network Adapter
+Manufacturer    : Qualcomm Atheros Communications Inc.
+ProductName     : Qualcomm Atheros QCA61x4A Wireless Network Adapter
+ServiceName     : Qcamain10x64
+MACAddress      : 3C:95:09:F9:4B:9F
+AdapterType     : Ethernet 802.3
+NetConnectionID : Wi-Fi
+NetEnabled      : True
+Speed           : 72200000
+PhysicalAdapter : True
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 3
+Name            : Bluetooth Device (RFCOMM Protocol TDI)
+Manufacturer    : Microsoft
+ProductName     : Bluetooth Device (RFCOMM Protocol TDI)
+ServiceName     : RFCOMM
+MACAddress      : 
+AdapterType     : 
+NetConnectionID : 
+NetEnabled      : 
+Speed           : 
+PhysicalAdapter : False
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 4
+Name            : Realtek PCIe GBE Family Controller
+Manufacturer    : Realtek
+ProductName     : Realtek PCIe GBE Family Controller
+ServiceName     : rt640x64
+MACAddress      : 54:E1:AD:55:7C:34
+AdapterType     : Ethernet 802.3
+NetConnectionID : Ethernet
+NetEnabled      : False
+Speed           : 9223372036854775807
+PhysicalAdapter : True
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 5
+Name            : Microsoft Wi-Fi Direct Virtual Adapter #4
+Manufacturer    : Microsoft
+ProductName     : Microsoft Wi-Fi Direct Virtual Adapter
+ServiceName     : vwifimp
+MACAddress      : 3E:95:09:F9:4B:9F
+AdapterType     : Ethernet 802.3
+NetConnectionID : 
+NetEnabled      : 
+Speed           : 9223372036854775807
+PhysicalAdapter : False
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 6
+Name            : Bluetooth Device (Personal Area Network)
+Manufacturer    : Microsoft
+ProductName     : Bluetooth Device (Personal Area Network)
+ServiceName     : BthPan
+MACAddress      : 3C:95:09:F9:4B:A0
+AdapterType     : Ethernet 802.3
+NetConnectionID : Bluetooth Network Connection
+NetEnabled      : False
+Speed           : 3000000
+PhysicalAdapter : True
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 7
+Name            : Microsoft Wi-Fi Direct Virtual Adapter
+Manufacturer    : Microsoft
+ProductName     : Microsoft Wi-Fi Direct Virtual Adapter
+ServiceName     : vwifimp
+MACAddress      : 4E:95:09:F9:4B:9F
+AdapterType     : Ethernet 802.3
+NetConnectionID : 
+NetEnabled      : 
+Speed           : 9223372036854775807
+PhysicalAdapter : False
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 8
+Name            : WAN Miniport (SSTP)
+Manufacturer    : Microsoft
+ProductName     : WAN Miniport (SSTP)
+ServiceName     : RasSstp
+MACAddress      : 
+AdapterType     : 
+NetConnectionID : 
+NetEnabled      : 
+Speed           : 
+PhysicalAdapter : False
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 9
+Name            : WAN Miniport (IKEv2)
+Manufacturer    : Microsoft
+ProductName     : WAN Miniport (IKEv2)
+ServiceName     : RasAgileVpn
+MACAddress      : 
+AdapterType     : 
+NetConnectionID : 
+NetEnabled      : 
+Speed           : 
+PhysicalAdapter : False
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 10
+Name            : WAN Miniport (L2TP)
+Manufacturer    : Microsoft
+ProductName     : WAN Miniport (L2TP)
+ServiceName     : Rasl2tp
+MACAddress      : 
+AdapterType     : 
+NetConnectionID : 
+NetEnabled      : 
+Speed           : 
+PhysicalAdapter : False
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 11
+Name            : WAN Miniport (PPTP)
+Manufacturer    : Microsoft
+ProductName     : WAN Miniport (PPTP)
+ServiceName     : PptpMiniport
+MACAddress      : 
+AdapterType     : 
+NetConnectionID : 
+NetEnabled      : 
+Speed           : 
+PhysicalAdapter : False
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 12
+Name            : WAN Miniport (PPPOE)
+Manufacturer    : Microsoft
+ProductName     : WAN Miniport (PPPOE)
+ServiceName     : RasPppoe
+MACAddress      : 
+AdapterType     : 
+NetConnectionID : 
+NetEnabled      : 
+Speed           : 
+PhysicalAdapter : False
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 13
+Name            : WAN Miniport (IP)
+Manufacturer    : Microsoft
+ProductName     : WAN Miniport (IP)
+ServiceName     : NdisWan
+MACAddress      : 88:EB:20:52:41:53
+AdapterType     : Ethernet 802.3
+NetConnectionID : 
+NetEnabled      : 
+Speed           : 
+PhysicalAdapter : False
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 14
+Name            : WAN Miniport (IPv6)
+Manufacturer    : Microsoft
+ProductName     : WAN Miniport (IPv6)
+ServiceName     : NdisWan
+MACAddress      : 8C:F9:20:52:41:53
+AdapterType     : Ethernet 802.3
+NetConnectionID : 
+NetEnabled      : 
+Speed           : 
+PhysicalAdapter : False
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+DeviceID        : 15
+Name            : WAN Miniport (Network Monitor)
+Manufacturer    : Microsoft
+ProductName     : WAN Miniport (Network Monitor)
+ServiceName     : NdisWan
+MACAddress      : 92:1C:20:52:41:53
+AdapterType     : Ethernet 802.3
+NetConnectionID : 
+NetEnabled      : 
+Speed           : 
+PhysicalAdapter : False
+TimeOfLastReset : 30-06-2018 1.35.00 AM
+
+
+
+
+Network Configuration Information - 06/30/2018 17:04:03
+
+Description                  : Microsoft Kernel Debug Network Adapter
+DHCPEnabled                  : True
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 
+ServiceName                  : kdnic
+
+Description                  : TAP-Windows Adapter V9
+DHCPEnabled                  : True
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 00:FF:7A:76:BA:B4
+ServiceName                  : tap0901
+
+Description                  : Qualcomm Atheros QCA61x4A Wireless Network Adapter
+DHCPEnabled                  : True
+DHCPLeaseObtained            : 01-01-1970 8.51.58 PM
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : {}
+DHCPServer                   : 192.168.43.1
+DNSHostName                  : LAPTOP-9947AK30
+DNSServerSearchOrder         : {192.168.43.1}
+DomainDNSRegistrationEnabled : False
+FullDNSRegistrationEnabled   : True
+IPEnabled                    : True
+IPAddress                    : {192.168.43.240, fe80::dc36:d3e0:74ee:a8bf}
+DefaultIPGateway             : {192.168.43.1}
+IPSubnet                     : {255.255.255.0, 64}
+MACAddress                   : 3C:95:09:F9:4B:9F
+ServiceName                  : Qcamain10x64
+
+Description                  : Bluetooth Device (RFCOMM Protocol TDI)
+DHCPEnabled                  : False
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 
+ServiceName                  : RFCOMM
+
+Description                  : Realtek PCIe GBE Family Controller
+DHCPEnabled                  : True
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 54:E1:AD:55:7C:34
+ServiceName                  : rt640x64
+
+Description                  : Microsoft Wi-Fi Direct Virtual Adapter
+DHCPEnabled                  : True
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 3E:95:09:F9:4B:9F
+ServiceName                  : vwifimp
+
+Description                  : Bluetooth Device (Personal Area Network)
+DHCPEnabled                  : True
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 3C:95:09:F9:4B:A0
+ServiceName                  : BthPan
+
+Description                  : Microsoft Wi-Fi Direct Virtual Adapter
+DHCPEnabled                  : True
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 4E:95:09:F9:4B:9F
+ServiceName                  : vwifimp
+
+Description                  : WAN Miniport (SSTP)
+DHCPEnabled                  : False
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 
+ServiceName                  : RasSstp
+
+Description                  : WAN Miniport (IKEv2)
+DHCPEnabled                  : False
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 
+ServiceName                  : RasAgileVpn
+
+Description                  : WAN Miniport (L2TP)
+DHCPEnabled                  : False
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 
+ServiceName                  : Rasl2tp
+
+Description                  : WAN Miniport (PPTP)
+DHCPEnabled                  : False
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 
+ServiceName                  : PptpMiniport
+
+Description                  : WAN Miniport (PPPOE)
+DHCPEnabled                  : False
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 
+ServiceName                  : RasPppoe
+
+Description                  : WAN Miniport (IP)
+DHCPEnabled                  : False
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 88:EB:20:52:41:53
+ServiceName                  : NdisWan
+
+Description                  : WAN Miniport (IPv6)
+DHCPEnabled                  : False
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 8C:F9:20:52:41:53
+ServiceName                  : NdisWan
+
+Description                  : WAN Miniport (Network Monitor)
+DHCPEnabled                  : False
+DHCPLeaseObtained            : 
+DNSDomain                    : 
+DNSDomainSuffixSearchOrder   : 
+DHCPServer                   : 
+DNSHostName                  : 
+DNSServerSearchOrder         : 
+DomainDNSRegistrationEnabled : 
+FullDNSRegistrationEnabled   : 
+IPEnabled                    : False
+IPAddress                    : 
+DefaultIPGateway             : 
+IPSubnet                     : 
+MACAddress                   : 92:1C:20:52:41:53
+ServiceName                  : NdisWan
+
+
+
+
+Operating System Information - 06/30/2018 17:04:06
+
+Name                    : Microsoft Windows 10 Home Single Language|C:\WINDOWS|\Device\Harddisk1\Partition3
+Manufacturer            : Microsoft Corporation
+Caption                 : Microsoft Windows 10 Home Single Language
+Version                 : 10.0.17134
+MUILanguages            : {en-US}
+BuildNumber             : 17134
+BuildType               : Multiprocessor Free
+InstallDate             : 02-05-2018 4.41.52 AM
+OSArchitecture          : 64-bit
+PortableOperatingSystem : False
+Primary                 : True
+BootDevice              : \Device\HarddiskVolume3
+LastBootUpTime          : 30-06-2018 1.35.00 AM
+LocalDateTime           : 30-06-2018 5.04.06 PM
+CurrentTimeZone         : 330
+RegisteredUser          : Windows User
+SerialNumber            : 00342-41366-66444-AAOEM
+SystemDevice            : \Device\HarddiskVolume5
+SystemDirectory         : C:\WINDOWS\system32
+SystemDrive             : C:
+WindowsDirectory        : C:\WINDOWS
+EncryptionLevel         : 256
+FreePhysicalMemory      : 12926936
+FreeSpaceInPagingFiles  : 2490368
+FreeVirtualMemory       : 12797984
+SizeStoredInPagingFiles : 2490368
+TotalVirtualMemorySize  : 19139748
+TotalVisibleMemorySize  : 16649380
+Status                  : OK
+
+
+
+
+
+
+PSShowComputerName          : True
+Caption                     : Portable Battery
+Description                 : Portable Battery
+InstallDate                 : 
+Name                        : CRB Battery 0
+Status                      : 
+Availability                : 
+ConfigManagerErrorCode      : 
+ConfigManagerUserConfig     : 
+CreationClassName           : Win32_PortableBattery
+DeviceID                    : Portable Battery 0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-9947AK30
+BatteryStatus               : 
+Chemistry                   : 7
+DesignCapacity              : 0
+DesignVoltage               : 0
+EstimatedChargeRemaining    : 
+EstimatedRunTime            : 
+ExpectedLife                : 
+FullChargeCapacity          : 
+MaxRechargeTime             : 
+SmartBatteryVersion         : 
+TimeOnBattery               : 
+TimeToFullCharge            : 
+CapacityMultiplier          : 0
+Location                    : Fake
+ManufactureDate             : 20100808053000.000000+330
+Manufacturer                : -Virtual Battery 0-
+MaxBatteryError             : 0
+PSComputerName              : 
+CimClass                    : root/cimv2:Win32_PortableBattery
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+
+
+
+Physical Drives Information - 06/30/2018 17:03:57
+
+DeviceID               : \\.\PHYSICALDRIVE1
+FirmwareRevision       : 4L1QCXB7
+Manufacturer           : (Standard disk drives)
+Model                  : NVMe SAMSUNG MZVLW128
+MediaType              : Fixed hard disk media
+SerialNumber           : 0025_38B6_71B9_1B43.
+InterfaceType          : SCSI
+Partitions             : 3
+Size                   : 128034708480
+TotalCylinders         : 15566
+TotalHeads             : 255
+TotalSectors           : 250067790
+TotalTracks            : 3969330
+SectorsPerTrack        : 63
+Capabilities           : {3, 4, 10}
+CapabilityDescriptions : {Random Access, Supports Writing, SMART Notification}
+Status                 : OK
+
+DeviceID               : \\.\PHYSICALDRIVE0
+FirmwareRevision       : LCM2
+Manufacturer           : (Standard disk drives)
+Model                  : ST1000LM035-1RK172
+MediaType              : Fixed hard disk media
+SerialNumber           :             WDEDKGKZ
+InterfaceType          : SCSI
+Partitions             : 1
+Size                   : 1000202273280
+TotalCylinders         : 121601
+TotalHeads             : 255
+TotalSectors           : 1953520065
+TotalTracks            : 31008255
+SectorsPerTrack        : 63
+Capabilities           : {3, 4, 10}
+CapabilityDescriptions : {Random Access, Supports Writing, SMART Notification}
+Status                 : OK
+
+
+
+
+Printers Information - 06/30/2018 17:04:18
+
+DeviceID               : HP Deskjet 2510 series
+Name                   : HP Deskjet 2510 series
+HorizontalResolution   : 600
+VerticalResolution     : 300
+Default                : True
+DriverName             : HP Deskjet 2510 series
+Direct                 : False
+Network                : False
+Local                  : True
+Hidden                 : False
+KeepPrintedJobs        : False
+PrintJobDataType       : RAW
+PrintProcessor         : winprint
+PortName               : USB001
+Shared                 : False
+ServerName             : 
+SpoolEnabled           : True
+WorkOffline            : True
+CapabilityDescriptions : {Copies, Color, Collate}
+Status                 : Unknown
+
+DeviceID               : Send To OneNote 2016
+Name                   : Send To OneNote 2016
+HorizontalResolution   : 600
+VerticalResolution     : 600
+Default                : False
+DriverName             : Send to Microsoft OneNote 16 Driver
+Direct                 : False
+Network                : False
+Local                  : True
+Hidden                 : False
+KeepPrintedJobs        : False
+PrintJobDataType       : RAW
+PrintProcessor         : winprint
+PortName               : nul:
+Shared                 : False
+ServerName             : 
+SpoolEnabled           : True
+WorkOffline            : False
+CapabilityDescriptions : {Copies, Color}
+Status                 : Unknown
+
+DeviceID               : Microsoft XPS Document Writer
+Name                   : Microsoft XPS Document Writer
+HorizontalResolution   : 600
+VerticalResolution     : 600
+Default                : False
+DriverName             : Microsoft XPS Document Writer v4
+Direct                 : False
+Network                : False
+Local                  : True
+Hidden                 : False
+KeepPrintedJobs        : False
+PrintJobDataType       : RAW
+PrintProcessor         : winprint
+PortName               : PORTPROMPT:
+Shared                 : False
+ServerName             : 
+SpoolEnabled           : True
+WorkOffline            : False
+CapabilityDescriptions : {Copies, Color, Collate}
+Status                 : Unknown
+
+DeviceID               : Microsoft Print to PDF
+Name                   : Microsoft Print to PDF
+HorizontalResolution   : 600
+VerticalResolution     : 600
+Default                : False
+DriverName             : Microsoft Print To PDF
+Direct                 : False
+Network                : False
+Local                  : True
+Hidden                 : False
+KeepPrintedJobs        : False
+PrintJobDataType       : RAW
+PrintProcessor         : winprint
+PortName               : PORTPROMPT:
+Shared                 : False
+ServerName             : 
+SpoolEnabled           : True
+WorkOffline            : False
+CapabilityDescriptions : {Copies, Color}
+Status                 : Unknown
+
+DeviceID               : Fax
+Name                   : Fax
+HorizontalResolution   : 200
+VerticalResolution     : 200
+Default                : False
+DriverName             : Microsoft Shared Fax Driver
+Direct                 : False
+Network                : False
+Local                  : True
+Hidden                 : False
+KeepPrintedJobs        : False
+PrintJobDataType       : RAW
+PrintProcessor         : winprint
+PortName               : SHRFAX:
+Shared                 : False
+ServerName             : 
+SpoolEnabled           : True
+WorkOffline            : False
+CapabilityDescriptions : {Color, Duplex}
+Status                 : Unknown
+
+
+
+
+Processes Information - 06/30/2018 17:04:25
+
+ProcessName  : System Idle Process
+Path         : 
+CreationDate : 30-06-2018 1.35.02 AM
+
+ProcessName  : System
+Path         : 
+CreationDate : 30-06-2018 1.35.02 AM
+
+ProcessName  : Registry
+Path         : 
+CreationDate : 30-06-2018 1.35.00 AM
+
+ProcessName  : smss.exe
+Path         : 
+CreationDate : 30-06-2018 1.35.02 AM
+
+ProcessName  : csrss.exe
+Path         : 
+CreationDate : 30-06-2018 1.35.06 AM
+
+ProcessName  : wininit.exe
+Path         : 
+CreationDate : 30-06-2018 1.35.07 AM
+
+ProcessName  : services.exe
+Path         : 
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : lsass.exe
+Path         : C:\WINDOWS\system32\lsass.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : C:\WINDOWS\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : fontdrvhost.exe
+Path         : C:\WINDOWS\system32\fontdrvhost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : WUDFHost.exe
+Path         : C:\Windows\System32\WUDFHost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : NVDisplay.Container.exe
+Path         : C:\Program Files\NVIDIA Corporation\Display.NvContainer\NVDisplay.Container.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : Memory Compression
+Path         : 
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : igfxCUIService.exe
+Path         : C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_9dc776be3e13ad6d\igfxCUIService.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : C:\WINDOWS\System32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : C:\WINDOWS\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : RtkAudioService64.exe
+Path         : C:\Program Files\Realtek\Audio\HDA\RtkAudioService64.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : C:\WINDOWS\System32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : C:\WINDOWS\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.08 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : C:\WINDOWS\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : spoolsv.exe
+Path         : C:\WINDOWS\System32\spoolsv.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : AdminService.exe
+Path         : C:\WINDOWS\system32\DRIVERS\AdminService.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : C:\WINDOWS\System32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : armsvc.exe
+Path         : C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : LegacyCsLoaderService.exe
+Path         : C:\Program Files\Intel\Intel(R) Online Connect Access\LegacyCsLoaderService.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : DolbyDAX2API.exe
+Path         : C:\Program Files\Dolby\Dolby DAX2\DAX2_API\DolbyDAX2API.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : IntelTechnologyAccessService.exe
+Path         : C:\Program Files\Intel\Intel(R) Online Connect Access\IntelTechnologyAccessService.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : IntelCpHDCPSvc.exe
+Path         : C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_9dc776be3e13ad6d\IntelCpHDCPSvc.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : ETDService.exe
+Path         : C:\Program Files\Elantech\ETDService.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : OfficeClickToRun.exe
+Path         : C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : Lenovo.Modern.ImController.exe
+Path         : C:\Program Files\Lenovo\ImController\Service\Lenovo.Modern.ImController.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : mcsacore.exe
+Path         : C:\Program Files (x86)\McAfee\SiteAdvisor\McSACore.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : mfemms.exe
+Path         : C:\Program Files\Common Files\McAfee\SystemCore\mfemms.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : nvcontainer.exe
+Path         : C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : PluginLoaderSvc.exe
+Path         : C:\Program Files\Lenovo\Nerve Center\bin\x64\PluginLoaderSvc.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : ForwardDaemon.exe
+Path         : C:\Program Files (x86)\Motorola\MotForwardDaemon\ForwardDaemon.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : Lavasoft.WCAssistant.WinService.exe
+Path         : C:\Program Files (x86)\Lavasoft\Web Companion\Application\Lavasoft.WCAssistant.WinService.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : NvTelemetryContainer.exe
+Path         : C:\Program Files (x86)\NVIDIA Corporation\NvTelemetry\NvTelemetryContainer.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : C:\WINDOWS\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : ModuleCoreService.exe
+Path         : c:\program files\common files\mcafee\modulecore\modulecoreservice.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : TeamViewer_Service.exe
+Path         : C:\Program Files (x86)\TeamViewer\Version8\TeamViewer_Service.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : SecurityHealthService.exe
+Path         : 
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : IntelCpHeciSvc.exe
+Path         : C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_9dc776be3e13ad6d\IntelCpHeciSvc.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : mfevtps.exe
+Path         : C:\Windows\system32\mfevtps.exe
+CreationDate : 30-06-2018 1.35.09 AM
+
+ProcessName  : mfevtps.exe
+Path         : C:\Windows\system32\mfevtps.exe
+CreationDate : 30-06-2018 1.35.10 AM
+
+ProcessName  : mfefire.exe
+Path         : C:\Program Files\Common Files\McAfee\SystemCore\mfefire.exe
+CreationDate : 30-06-2018 1.35.12 AM
+
+ProcessName  : mcapexe.exe
+Path         : C:\Program Files\Common Files\McAfee\VSCore_15_8\McApExe.exe
+CreationDate : 30-06-2018 1.35.12 AM
+
+ProcessName  : mcshield.exe
+Path         : C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe
+CreationDate : 30-06-2018 1.35.14 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.18 AM
+
+ProcessName  : PresentationFontCache.exe
+Path         : C:\WINDOWS\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe
+CreationDate : 30-06-2018 1.35.20 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.21 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.21 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.21 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.21 AM
+
+ProcessName  : WmiPrvSE.exe
+Path         : C:\WINDOWS\system32\wbem\wmiprvse.exe
+CreationDate : 30-06-2018 1.35.22 AM
+
+ProcessName  : GoogleCrashHandler.exe
+Path         : C:\Program Files (x86)\Google\Update\1.3.33.17\GoogleCrashHandler.exe
+CreationDate : 30-06-2018 1.35.23 AM
+
+ProcessName  : GoogleCrashHandler64.exe
+Path         : C:\Program Files (x86)\Google\Update\1.3.33.17\GoogleCrashHandler64.exe
+CreationDate : 30-06-2018 1.35.23 AM
+
+ProcessName  : SearchIndexer.exe
+Path         : C:\WINDOWS\system32\SearchIndexer.exe
+CreationDate : 30-06-2018 1.35.23 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.24 AM
+
+ProcessName  : ioc.exe
+Path         : C:\Program Files\Intel\Intel(R) Online Connect\ioc.exe
+CreationDate : 30-06-2018 1.35.25 AM
+
+ProcessName  : unsecapp.exe
+Path         : C:\WINDOWS\system32\wbem\unsecapp.exe
+CreationDate : 30-06-2018 1.35.27 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.29 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.35.31 AM
+
+ProcessName  : jhi_service.exe
+Path         : C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\jhi_service.exe
+CreationDate : 30-06-2018 1.35.38 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.37.17 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.37.17 AM
+
+ProcessName  : LMS.exe
+Path         : C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe
+CreationDate : 30-06-2018 1.37.17 AM
+
+ProcessName  : SgrmBroker.exe
+Path         : 
+CreationDate : 30-06-2018 1.37.17 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.37.18 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.39.10 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.43.00 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.43.04 AM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 1.47.39 AM
+
+ProcessName  : csrss.exe
+Path         : 
+CreationDate : 30-06-2018 1.47.40 AM
+
+ProcessName  : winlogon.exe
+Path         : C:\WINDOWS\System32\WinLogon.exe
+CreationDate : 30-06-2018 1.47.40 AM
+
+ProcessName  : fontdrvhost.exe
+Path         : C:\WINDOWS\System32\fontdrvhost.exe
+CreationDate : 30-06-2018 1.47.40 AM
+
+ProcessName  : dwm.exe
+Path         : C:\WINDOWS\System32\dwm.exe
+CreationDate : 30-06-2018 1.47.40 AM
+
+ProcessName  : NVDisplay.Container.exe
+Path         : C:\Program Files\NVIDIA Corporation\Display.NvContainer\NVDisplay.Container.exe
+CreationDate : 30-06-2018 1.47.46 AM
+
+ProcessName  : ETDCtrl.exe
+Path         : C:\Program Files\Elantech\ETDCtrl.exe
+CreationDate : 30-06-2018 3.12.41 PM
+
+ProcessName  : RAVBg64.exe
+Path         : C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe
+CreationDate : 30-06-2018 3.12.41 PM
+
+ProcessName  : nvcontainer.exe
+Path         : C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+CreationDate : 30-06-2018 3.12.41 PM
+
+ProcessName  : nvcontainer.exe
+Path         : C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+CreationDate : 30-06-2018 3.12.41 PM
+
+ProcessName  : saUI.exe
+Path         : C:\Program Files (x86)\McAfee\SiteAdvisor\saUI.exe
+CreationDate : 30-06-2018 3.12.41 PM
+
+ProcessName  : sihost.exe
+Path         : c:\windows\system32\sihost.exe
+CreationDate : 30-06-2018 3.12.41 PM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 3.12.41 PM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 3.12.41 PM
+
+ProcessName  : LenovoNerveCenterUpdateAgent.exe
+Path         : C:\Program Files\Lenovo\Nerve Center\bin\x64\LenovoNerveCenterUpdateAgent.exe
+CreationDate : 30-06-2018 3.12.41 PM
+
+ProcessName  : taskhostw.exe
+Path         : c:\windows\system32\taskhostw.exe
+CreationDate : 30-06-2018 3.12.41 PM
+
+ProcessName  : igfxEM.exe
+Path         : C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_9dc776be3e13ad6d\igfxEM.exe
+CreationDate : 30-06-2018 3.12.41 PM
+
+ProcessName  : explorer.exe
+Path         : C:\WINDOWS\Explorer.EXE
+CreationDate : 30-06-2018 3.12.41 PM
+
+ProcessName  : ETDCtrlHelper.exe
+Path         : C:\Program Files\Elantech\ETDCtrlHelper.exe
+CreationDate : 30-06-2018 3.12.42 PM
+
+ProcessName  : ETDIntelligent.exe
+Path         : C:\Program Files\Elantech\ETDIntelligent.exe
+CreationDate : 30-06-2018 3.12.42 PM
+
+ProcessName  : ShellExperienceHost.exe
+Path         : C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+CreationDate : 30-06-2018 3.12.42 PM
+
+ProcessName  : SearchUI.exe
+Path         : C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+CreationDate : 30-06-2018 3.12.42 PM
+
+ProcessName  : RuntimeBroker.exe
+Path         : C:\Windows\System32\RuntimeBroker.exe
+CreationDate : 30-06-2018 3.12.42 PM
+
+ProcessName  : RuntimeBroker.exe
+Path         : C:\Windows\System32\RuntimeBroker.exe
+CreationDate : 30-06-2018 3.12.43 PM
+
+ProcessName  : SkypeHost.exe
+Path         : C:\Program Files\WindowsApps\Microsoft.SkypeApp_12.1813.286.0_x64__kzf8qxf38zg5c\SkypeHost.exe
+CreationDate : 30-06-2018 3.12.43 PM
+
+ProcessName  : SettingSyncHost.exe
+Path         : C:\WINDOWS\system32\SettingSyncHost.exe
+CreationDate : 30-06-2018 3.12.43 PM
+
+ProcessName  : ctfmon.exe
+Path         : C:\WINDOWS\system32\ctfmon.exe
+CreationDate : 30-06-2018 3.12.43 PM
+
+ProcessName  : LockApp.exe
+Path         : C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+CreationDate : 30-06-2018 3.12.43 PM
+
+ProcessName  : RuntimeBroker.exe
+Path         : C:\Windows\System32\RuntimeBroker.exe
+CreationDate : 30-06-2018 3.12.43 PM
+
+ProcessName  : NVIDIA Web Helper.exe
+Path         : C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
+CreationDate : 30-06-2018 3.12.45 PM
+
+ProcessName  : conhost.exe
+Path         : C:\WINDOWS\system32\conhost.exe
+CreationDate : 30-06-2018 3.12.45 PM
+
+ProcessName  : RuntimeBroker.exe
+Path         : C:\Windows\System32\RuntimeBroker.exe
+CreationDate : 30-06-2018 3.12.46 PM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 3.12.48 PM
+
+ProcessName  : RuntimeBroker.exe
+Path         : C:\Windows\System32\RuntimeBroker.exe
+CreationDate : 30-06-2018 3.12.49 PM
+
+ProcessName  : nvsphelper64.exe
+Path         : C:\Program Files\NVIDIA Corporation\ShadowPlay\nvsphelper64.exe
+CreationDate : 30-06-2018 3.12.50 PM
+
+ProcessName  : NVIDIA Share.exe
+Path         : C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+CreationDate : 30-06-2018 3.12.50 PM
+
+ProcessName  : NVIDIA Share.exe
+Path         : C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+CreationDate : 30-06-2018 3.12.50 PM
+
+ProcessName  : NVIDIA Share.exe
+Path         : C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+CreationDate : 30-06-2018 3.12.50 PM
+
+ProcessName  : MSASCuiL.exe
+Path         : C:\Program Files\Windows Defender\MSASCuiL.exe
+CreationDate : 30-06-2018 3.12.53 PM
+
+ProcessName  : utility.exe
+Path         : C:\ProgramData\Lenovo\ImController\Plugins\IdeaOSDPackage\x64\utility.exe
+CreationDate : 30-06-2018 3.12.54 PM
+
+ProcessName  : RAVCpl64.exe
+Path         : C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe
+CreationDate : 30-06-2018 3.12.54 PM
+
+ProcessName  : RAVBg64.exe
+Path         : C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe
+CreationDate : 30-06-2018 3.12.55 PM
+
+ProcessName  : RAVBg64.exe
+Path         : C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe
+CreationDate : 30-06-2018 3.12.55 PM
+
+ProcessName  : DolbyDAX2TrayIcon.exe
+Path         : C:\Program Files\Dolby\Dolby DAX2\DAX2_APP\DolbyDAX2TrayIcon.exe
+CreationDate : 30-06-2018 3.12.56 PM
+
+ProcessName  : WebCompanion.exe
+Path         : C:\Program Files (x86)\Lavasoft\Web Companion\Application\WebCompanion.exe
+CreationDate : 30-06-2018 3.12.56 PM
+
+ProcessName  : jusched.exe
+Path         : C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+CreationDate : 30-06-2018 3.13.00 PM
+
+ProcessName  : ModuleCoreService.exe
+Path         : c:\program files\common files\mcafee\modulecore\ModuleCoreService.exe
+CreationDate : 30-06-2018 3.13.41 PM
+
+ProcessName  : conhost.exe
+Path         : C:\WINDOWS\system32\conhost.exe
+CreationDate : 30-06-2018 3.13.41 PM
+
+ProcessName  : dllhost.exe
+Path         : C:\WINDOWS\system32\DllHost.exe
+CreationDate : 30-06-2018 3.14.03 PM
+
+ProcessName  : HostAppServiceUpdater.exe
+Path         : C:\Users\Abhinav\AppData\Local\Host App Service\Engine\HostAppServiceUpdater.exe
+CreationDate : 30-06-2018 3.14.42 PM
+
+ProcessName  : Lenovo.Modern.ImController.PluginHost.Device.exe
+Path         : C:\Program Files (x86)\Lenovo\iMController\PluginHost\Lenovo.Modern.ImController.PluginHost.Device.exe
+CreationDate : 30-06-2018 3.17.42 PM
+
+ProcessName  : wampmanager.exe
+Path         : C:\wamp64\wampmanager.exe
+CreationDate : 30-06-2018 3.31.24 PM
+
+ProcessName  : httpd.exe
+Path         : c:\wamp64\bin\apache\apache2.4.33\bin\httpd.exe
+CreationDate : 30-06-2018 3.31.26 PM
+
+ProcessName  : mysqld.exe
+Path         : c:\wamp64\bin\mysql\mysql5.7.21\bin\mysqld.exe
+CreationDate : 30-06-2018 3.31.26 PM
+
+ProcessName  : mysqld.exe
+Path         : c:\wamp64\bin\mariadb\mariadb10.2.14\bin\mysqld.exe
+CreationDate : 30-06-2018 3.31.26 PM
+
+ProcessName  : httpd.exe
+Path         : C:\wamp64\bin\apache\apache2.4.33\bin\httpd.exe
+CreationDate : 30-06-2018 3.31.26 PM
+
+ProcessName  : Lenovo.Modern.ImController.PluginHost.SettingsApp.exe
+Path         : C:\Program Files\Lenovo\iMController\PluginHost\Lenovo.Modern.ImController.PluginHost.SettingsApp.exe
+CreationDate : 30-06-2018 4.14.34 PM
+
+ProcessName  : Lenovo.Modern.ImController.PluginHost.SettingsApp.exe
+Path         : C:\Program Files 
+               (x86)\Lenovo\iMController\PluginHost\Lenovo.Modern.ImController.PluginHost.SettingsApp.exe
+CreationDate : 30-06-2018 4.14.34 PM
+
+ProcessName  : Lenovo.Modern.ImController.PluginHost.SettingsApp.exe
+Path         : C:\Program Files\Lenovo\iMController\PluginHost\Lenovo.Modern.ImController.PluginHost.SettingsApp.exe
+CreationDate : 30-06-2018 4.14.34 PM
+
+ProcessName  : ApplicationFrameHost.exe
+Path         : C:\WINDOWS\system32\ApplicationFrameHost.exe
+CreationDate : 30-06-2018 4.15.37 PM
+
+ProcessName  : IDMan.exe
+Path         : C:\Program Files (x86)\Internet Download Manager\IDMan.exe
+CreationDate : 30-06-2018 4.16.00 PM
+
+ProcessName  : IEMonitor.exe
+Path         : C:\Program Files (x86)\Internet Download Manager\IEMonitor.exe
+CreationDate : 30-06-2018 4.16.01 PM
+
+ProcessName  : svchost.exe
+Path         : c:\windows\system32\svchost.exe
+CreationDate : 30-06-2018 4.17.32 PM
+
+ProcessName  : WinStore.App.exe
+Path         : C:\Program Files\WindowsApps\Microsoft.WindowsStore_11803.1001.11.0_x64__8wekyb3d8bbwe\WinStore.App.exe
+CreationDate : 30-06-2018 4.27.27 PM
+
+ProcessName  : RuntimeBroker.exe
+Path         : C:\Windows\System32\RuntimeBroker.exe
+CreationDate : 30-06-2018 4.27.27 PM
+
+ProcessName  : SystemSettings.exe
+Path         : C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+CreationDate : 30-06-2018 4.27.48 PM
+
+ProcessName  : McCSPServiceHost.exe
+Path         : C:\Program Files\Common Files\McAfee\CSP\2.9.175.0\McCSPServiceHost.exe
+CreationDate : 30-06-2018 4.30.53 PM
+
+ProcessName  : MfeAVSvc.exe
+Path         : C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe
+CreationDate : 30-06-2018 4.31.05 PM
+
+ProcessName  : MMSSHOST.exe
+Path         : C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE
+CreationDate : 30-06-2018 4.31.06 PM
+
+ProcessName  : McUICnt.exe
+Path         : C:\Program Files\Common Files\McAfee\Platform\mcuicnt.exe
+CreationDate : 30-06-2018 4.31.07 PM
+
+ProcessName  : dllhost.exe
+Path         : C:\WINDOWS\system32\DllHost.exe
+CreationDate : 30-06-2018 4.36.02 PM
+
+ProcessName  : cmd.exe
+Path         : C:\WINDOWS\system32\cmd.exe
+CreationDate : 30-06-2018 4.39.39 PM
+
+ProcessName  : conhost.exe
+Path         : C:\WINDOWS\system32\conhost.exe
+CreationDate : 30-06-2018 4.39.39 PM
+
+ProcessName  : svchost.exe
+Path         : C:\WINDOWS\System32\svchost.exe
+CreationDate : 30-06-2018 4.50.53 PM
+
+ProcessName  : svchost.exe
+Path         : C:\WINDOWS\system32\svchost.exe
+CreationDate : 30-06-2018 5.00.46 PM
+
+ProcessName  : smartscreen.exe
+Path         : C:\Windows\System32\smartscreen.exe
+CreationDate : 30-06-2018 5.00.46 PM
+
+ProcessName  : svchost.exe
+Path         : C:\WINDOWS\system32\svchost.exe
+CreationDate : 30-06-2018 5.00.47 PM
+
+ProcessName  : svchost.exe
+Path         : 
+CreationDate : 30-06-2018 5.00.47 PM
+
+ProcessName  : svchost.exe
+Path         : C:\WINDOWS\system32\svchost.exe
+CreationDate : 30-06-2018 5.00.54 PM
+
+ProcessName  : audiodg.exe
+Path         : C:\WINDOWS\system32\AUDIODG.EXE
+CreationDate : 30-06-2018 5.00.56 PM
+
+ProcessName  : powershell.exe
+Path         : C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+CreationDate : 30-06-2018 5.00.57 PM
+
+ProcessName  : conhost.exe
+Path         : C:\WINDOWS\system32\conhost.exe
+CreationDate : 30-06-2018 5.00.57 PM
+
+ProcessName  : SearchProtocolHost.exe
+Path         : C:\WINDOWS\system32\SearchProtocolHost.exe
+CreationDate : 30-06-2018 5.03.41 PM
+
+ProcessName  : SearchFilterHost.exe
+Path         : C:\WINDOWS\system32\SearchFilterHost.exe
+CreationDate : 30-06-2018 5.03.41 PM
+
+ProcessName  : WmiPrvSE.exe
+Path         : C:\WINDOWS\system32\wbem\wmiprvse.exe
+CreationDate : 30-06-2018 5.03.51 PM
+
+
+
+
+RAM Information - 06/30/2018 17:03:55
+
+Tag           : Physical Memory 0
+DeviceLocator : ChannelA-DIMM0
+Manufacturer  : Samsung
+PartNumber    : M471A1K43CB1-CRC    
+SerialNumber  : 35B19BD3
+Capacity      : 8589934592
+Speed         : 2400
+
+Tag           : Physical Memory 2
+DeviceLocator : ChannelB-DIMM0
+Manufacturer  : Samsung
+PartNumber    : M471A1K43CB1-CRC    
+SerialNumber  : 35B19D01
+Capacity      : 8589934592
+Speed         : 2400
+
+
+
+
+
+Sound Devices Information - 06/30/2018 17:04:16
+
+DeviceID     : ROOT\UNNAMED_DEVICE\0000
+Name         : NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+Manufacturer : NVIDIA
+ProductName  : NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+
+DeviceID     : HDAUDIO\FUNC_01&VEN_8086&DEV_280B&SUBSYS_80860101&REV_1000\4&FF8F765&0&0201
+Name         : Intel(R) Display Audio
+Manufacturer : Intel(R) Corporation
+ProductName  : Intel(R) Display Audio
+
+DeviceID     : HDAUDIO\FUNC_01&VEN_10EC&DEV_0235&SUBSYS_17AA3844&REV_1000\4&FF8F765&0&0001
+Name         : Realtek High Definition Audio
+Manufacturer : Realtek
+ProductName  : Realtek High Definition Audio
+
+
+
+
